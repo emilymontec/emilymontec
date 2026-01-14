@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2289ff&width=435&lines=Full+Stack+Student+I+Guess;Software+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ## Sobre mí
-Soy una estudiante de desarrollo de software que crea cosas porque la curiosidad no la deja quieta. Trabajo distintos puntos del backend y frontend, acompañada de las bases de datos
+Soy una estudiante de desarrollo de software que crea cosas porque la curiosidad no la deja quieta. Trabajo distintos puntos del backend y frontend, acompañada de las bases de datos.
 Disfruto convirtiendo ideas aleatorias en proyectos funcionales, rompiendo cosas (responsablemente), arreglándolas y aprendiendo algo nuevo en el proceso. _Busco crear soluciones que tengan impacto más allá del código._
 
 ## Enfoque actual
