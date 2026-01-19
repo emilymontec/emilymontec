@@ -35,9 +35,13 @@ Disfruto convirtiendo ideas aleatorias en proyectos funcionales, rompiendo cosas
 - Crear +2 proyectos para compartir mis conocimientos y aprendizajes
 
 ## Colaboremos!
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0062BE?style=for-the-badge&logo=logoColor=white)](https://www.linkedin.com/in/emilymontec/)
 [![Email](https://img.shields.io/badge/email-BF1313?style=for-the-badge&logo=logoColor=white)](mailto:emilymonterrosa.c@gmail.com)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=logoColor=white)](https://yourportfolio.com)-->
+
+</div>
 
 ---
 
