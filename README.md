@@ -7,9 +7,8 @@ Soy una estudiante de desarrollo de software que crea cosas porque la curiosidad
 Disfruto convirtiendo ideas aleatorias en proyectos funcionales, rompiendo cosas (responsablemente), arreglándolas y aprendiendo algo nuevo en el proceso. _Busco crear soluciones que tengan impacto más allá del código._
 
 ## Enfoque actual
-
 - Trabajando en: **Tasky Wasky: Motiva tus tareas con juegos.**
-- Aprendiendo: **React.js/Node.js**
+- Aprendiendo: **Spring Boot**
 - Buscando: **Proyectos independientes y diversos para aumentar mis conocimientos.**
 - Dato curioso: **Ninguno, solo quería que leyeras mi biografía.**
 
@@ -39,7 +38,6 @@ Disfruto convirtiendo ideas aleatorias en proyectos funcionales, rompiendo cosas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0062BE?style=for-the-badge&logo=logoColor=white)](https://www.linkedin.com/in/emilymontec/)
 [![Email](https://img.shields.io/badge/email-BF1313?style=for-the-badge&logo=logoColor=white)](mailto:emilymonterrosa.c@gmail.com)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=logoColor=white)](https://yourportfolio.com)-->
-
 
 ---
 
