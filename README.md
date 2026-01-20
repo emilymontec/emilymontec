@@ -13,6 +13,8 @@ Disfruto convirtiendo ideas aleatorias en proyectos funcionales, rompiendo cosas
 - Dato curioso: **Ninguno, solo quería que leyeras mi biografía.**
 
 ## Arsenal Tech
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-51A2DA?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-179C7D?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-005F0F.svg?style=for-the-badge&logo=django&logoColor=white) 
@@ -27,6 +29,8 @@ Disfruto convirtiendo ideas aleatorias en proyectos funcionales, rompiendo cosas
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D597F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-3484D2.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
 
 ## Expectativas 2026 · Febrero
 - ¡UN TRABAJO!
