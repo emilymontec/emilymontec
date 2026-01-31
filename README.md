@@ -1,6 +1,6 @@
 # Hello there!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2289ff&width=435&lines=Full+Stack+Student+I+Guess;Software+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Full+Stack+Student+I+Guess;Software+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ## Sobre mí
 Soy una estudiante de desarrollo de software que crea cosas porque la curiosidad no la deja quieta. Trabajo distintos puntos del backend y frontend, acompañada de las bases de datos.
@@ -18,7 +18,7 @@ Disfruto convirtiendo ideas aleatorias en proyectos funcionales, rompiendo cosas
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css&logoColor=white)
@@ -34,9 +34,9 @@ Disfruto convirtiendo ideas aleatorias en proyectos funcionales, rompiendo cosas
 
 </div>
 
-## Expectativas 2026 · Febrero
-- ¡UN TRABAJO!
-- Aprender y dominar Spring Boot · Angular · Vue.js
+## Expectativas 2026 · Marzo
+- **¡UN TRABAJO!**
+- Aprender y dominar Angular · Vue.js
 - Ampliar mi red de contactos
 - Crear +2 proyectos para compartir mis conocimientos y aprendizajes
 
