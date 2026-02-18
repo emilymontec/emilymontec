@@ -1,17 +1,20 @@
-# Hello there!
+# hallo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Full+Stack+By+Curiosity;Backend+Lover;Frontend+Survivor;Software+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Full+Stack+in+Progress;Curious+by+Default;Backend+Enjoyer;Frontend+Tolerant;Learning+on+Purpose;Building+with+Intention)](https://git.io/typing-svg)
 
-## Sobre mí
-Soy una estudiante de desarrollo de software que crea cosas porque la curiosidad no la deja quieta. Trabajo tanto en backend como en frontend, integrando bases de datos para construir aplicaciones completas. Disfruto convirtiendo ideas aleatorias en proyectos funcionales, rompiendo cosas (responsablemente), arreglándolas y aprendiendo algo nuevo en el proceso. _Busco crear soluciones con impacto real más allá del código._
+## 'bout me
+Soy estudiante de desarrollo de software que no esta aquí solo para aprender a programar.<br>
+Estoy aquí para entender cómo se sostienen las cosas desde dentro. Me mueve la curiosidad, sí, pero también la necesidad de darle estructura. Me gusta probar ideas, desmontarlas, simplificarlas y volver a construir con más criterio.<br>
+No busco acumular herramientas; busco aprender a tomar mejores decisiones.<br>
+Estoy en proceso, y eso no me incomoda: lo estoy usando para construir fundamentos reales.
 
-## Enfoque actual
-- Trabajando en: **Tasky Wasky: Motiva tus tareas con juegos.**
-- Aprendiendo: **Spring Boot**
-- Buscando: **Proyectos independientes y diversos para aumentar mis conocimientos.**
-- Dato curioso: **Ninguno, solo quería que leyeras mi biografía.**
+## what Im doin' right now
+- **Construyendo:** Tasky Wasky (disciplinarse también puede ser un juego).
+- **Aprendiendo**: Spring Boot.
+- **Buscando**: Problemas interesantes más que títulos bonitos.
+- **Dato curioso**: Si algo no entiendo, no me quedo tranquila hasta desmontarlo.
 
-## Arsenal Tech
+## my lab
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,25 +35,23 @@ Soy una estudiante de desarrollo de software que crea cosas porque la curiosidad
 
 </div>
 
-## Expectativas 2026 · Marzo
-- **¡UN TRABAJO!**
-- Aprender y dominar Angular · Vue.js
-- Ampliar mi red de contactos
-- Crear +2 proyectos para compartir mis conocimientos y aprendizajes
+## 2026
+- Conseguir mi primera experiencia profesional.
+- Profundizar en backend y diseño de sistemas.
+- Crear proyectos donde documente decisiones reales y no solo resultados.
+- Seguir aprendiendo sin perder criterio.
 
-## Colaboremos!
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0062BE?style=for-the-badge&logo=logoColor=white)](https://www.linkedin.com/in/emilymontec/)
-[![Email](https://img.shields.io/badge/email-BF1313?style=for-the-badge&logo=logoColor=white)](mailto:emilymonterrosa.c@gmail.com)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=logoColor=white)](https://yourportfolio.com)-->
-
-</div>
-
----
+## if u´re still here:
+Probablemente te interesan las personas que construyen con intención. <br>
+Hablemos.
 
 <div align="center">
 
-  ###  "Eh... ¿Debo colocar un pie de página?"
+<a href="https://www.linkedin.com/in/emilymontec/" target="_blank">
+  <img src="https://api.iconify.design/devicon:linkedin.svg" width="40" height="40"/>
+</a>
+<a href="mailto:emilymonterrosa.c@gmail.com" target="_blank">
+  <img src="https://api.iconify.design/logos:google-gmail.svg" width="40" height="40"/>
+</a>
 
 </div>
