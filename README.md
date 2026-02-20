@@ -4,8 +4,9 @@
 
 ## 'bout me
 Soy estudiante de desarrollo de software que no esta aquí solo para aprender a programar.<br>
-Estoy aquí para entender cómo se sostienen las cosas desde dentro. Me mueve la curiosidad, sí, pero también la necesidad de darle estructura. Me gusta probar ideas, desmontarlas, simplificarlas y volver a construir con más criterio.<br>
-No busco acumular herramientas; busco aprender a tomar mejores decisiones.<br>
+Estoy aquí para entender cómo se sostienen las cosas desde dentro. Me mueve la curiosidad, sí, pero también la necesidad de darle estructura.<br>
+Me gusta probar ideas, desmontarlas, simplificarlas y volver a construir con más criterio.<br>
+_No busco acumular herramientas; busco aprender a tomar mejores decisiones._<br>
 Estoy en proceso, y eso no me incomoda: lo estoy usando para construir fundamentos reales.
 
 ## what Im doin' right now
