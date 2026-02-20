@@ -3,11 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Full+Stack+in+Progress;Curious+by+Default;Backend+Enjoyer;Frontend+Tolerant;Learning+on+Purpose;Building+with+Intention)](https://git.io/typing-svg)
 
 ## 'bout me
-Soy estudiante de desarrollo de software que no esta aquí solo para aprender a programar.<br>
-Estoy aquí para entender cómo se sostienen las cosas desde dentro. Me mueve la curiosidad, sí, pero también la necesidad de darle estructura.<br>
-Me gusta probar ideas, desmontarlas, simplificarlas y volver a construir con más criterio.<br>
-_No busco acumular herramientas; busco aprender a tomar mejores decisiones._<br>
-Estoy en proceso, y eso no me incomoda: lo estoy usando para construir fundamentos reales.
+Soy estudiante de desarrollo de software, pero no solo para aprender a programar. Estoy aquí para comprender cómo funcionan las cosas desde dentro y qué las sostiene realmente.
+Me impulsa la curiosidad, sí, pero también la necesidad de dar estructura y sentido a lo que hago. Disfruto poner a prueba las ideas, desmontarlas, simplificarlas y reconstruirlas con mayor criterio.
+
+_No busco acumular herramientas; Busco aprender a tomar mejores decisiones._
+
+Estoy en proceso, y eso no me incomoda. Al contrario, lo aprovecho para construir fundamentos sólidos y duraderos.
 
 ## what Im doin' right now
 - **Construyendo:** Tasky Wasky (disciplinarse también puede ser un juego).
