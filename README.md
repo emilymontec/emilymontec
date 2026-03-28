@@ -11,7 +11,7 @@ _No busco acumular herramientas; Busco aprender a tomar mejores decisiones._
 Estoy en proceso, y eso no me incomoda. Al contrario, lo aprovecho para construir fundamentos sólidos y duraderos.
 
 ## what Im doin' right now
-- **Construyendo:** Tasky Wasky (disciplinarse también puede ser un juego).
+- **Construyendo:** ATLAS Bank
 - **Aprendiendo**: Spring Boot.
 - **Buscando**: Problemas interesantes más que títulos bonitos.
 - **Dato curioso**: Si algo no entiendo, no me quedo tranquila hasta desmontarlo.
