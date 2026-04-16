@@ -55,9 +55,7 @@ Si te interesa crear cosas con un propósito claro, nos llevaremos bien.
 
 <a href="https://www.linkedin.com/in/emilymontec/" target="_blank">
   <img src="https://api.iconify.design/devicon:linkedin.svg" width="40" height="40"/>
-</a>
-<a href="mailto:emilymonterrosa.c@gmail.com" target="_blank">
+</a> <!-- SEPARACIÓN --> <a href="mailto:emilymonterrosa.c@gmail.com" target="_blank">
   <img src="https://api.iconify.design/skill-icons:gmail-light.svg" width="39" height="39"/>
 </a>
-
 </div>
