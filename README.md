@@ -1,51 +1,55 @@
-# hallo
+# hello there
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Full+Stack+in+Progress;Curious+by+Default;Backend+Enjoyer;Frontend+Tolerant;Learning+on+Purpose;Building+with+Intention)](https://git.io/typing-svg)
 
+
 ## 'bout me
-Soy estudiante de desarrollo de software, pero no solo para aprender a programar. Estoy aquí para comprender cómo funcionan las cosas desde dentro y qué las sostiene realmente.
-Me impulsa la curiosidad, sí, pero también la necesidad de dar estructura y sentido a lo que hago. Disfruto poner a prueba las ideas, desmontarlas, simplificarlas y reconstruirlas con mayor criterio.
+Estudiante de desarrollo de software enfocada en backend y pensamiento sístemico.
+
+Busco comprender cómo funcionan las cosas desde dentro y qué las sostiene realmente.
+Disfruto poner a prueba las ideas, desmontarlas, simplificarlas y reconstruirlas con un propósito claro.
 
 _No busco acumular herramientas; Busco aprender a tomar mejores decisiones._
 
-Estoy en proceso, y eso no me incomoda. Al contrario, lo aprovecho para construir fundamentos sólidos y duraderos.
 
 ## what Im doin' right now
 - **Construyendo:** ATLAS Bank (simulador bancario).
 - **Aprendiendo**: Spring Boot.
-- **Buscando**: Problemas interesantes más que títulos bonitos.
-- **Dato curioso**: Si algo no entiendo, no me quedo tranquila hasta desmontarlo.
+- **Explorando**: Arquitectura backend & toma de desiciones.
+- **Dato curioso**: Si no entiendo algo, lo desmonto hasta entenderlo.
+
 
 ## my lab
-<div align="center">
-
+### languages
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### back
+![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+### front
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+### db
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
 
-## 2026
+## 2026 goals
 - Conseguir mi primera experiencia profesional.
-- Profundizar en backend y diseño de sistemas.
-- Crear proyectos donde documente decisiones reales y no solo resultados.
-- Seguir aprendiendo sin perder criterio.
+- Profundizar en el diseño de sistemas y arquitectura backend.
+- Desarrollar proyectos que reflejen el proceso de toma de decisiones, no solo los resultados
+- Seguir aprendiendo de forma consciente.
+
 
 ## if u´re still here:
-Probablemente te interesan las personas que construyen con intención. <br>
-Hablemos.
+Si te interesa crear cosas con un propósito claro, nos llevaremos bien.
 
 <div align="center">
 
