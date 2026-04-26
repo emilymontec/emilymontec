@@ -42,3 +42,5 @@ Im working on **ATLASBank** (a banking simulator) and exploring system architect
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
