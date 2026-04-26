@@ -11,16 +11,11 @@ Im also learning **Spring Boot**, and Im enjoying it.<br>
 Im working on **ATLASBank** (a banking simulator) and exploring system architecture & decision making.
 
 ## reach out
-<a href="https://www.linkedin.com/in/emilymontec/" target="_blank">
-  <img src="https://api.iconify.design/devicon:linkedin.svg" width="30" height="30"/>
-</a> <!-- SEPARACIÓN --> <a href="mailto:emilymonterrosa.c@gmail.com" target="_blank">
-  <img src="https://api.iconify.design/skill-icons:gmail-light.svg" width="29" height="29"/>
-</a><!-- SEPARACIÓN --> <a href="https://emilymontec.netlify.app/" target="_blank">
-  <img src="https://api.iconify.design/streamline-color:link-chain-flat.svg" width="29" height="29"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=logoColor=white)](https://www.linkedin.com/in/emilymontec/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=logoColor=white)](mailto:emilymonterrosa.c@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3f0000?style=for-the-badge&logo=logoColor=white)](https://emilymontec.netlify.app/)
 
 ## my tools
-
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,7 +29,6 @@ Im working on **ATLASBank** (a banking simulator) and exploring system architect
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
