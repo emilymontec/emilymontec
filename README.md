@@ -4,7 +4,7 @@
 
 ## 'bout me
 Im a software developer student focused on backend and systemic thinking.<br>
-The languajes that I use the most are **Python** for **Django/FastAPI** and **JavaScript** for **Node.js**.<br>
+The languajes that I mainly use are **Python** for **Django/FastAPI** and **JavaScript** for **Node.js**.<br>
 Im also learning **Spring Boot**, and Im enjoying it.<br>
 
 ## what Im doin' right now
