@@ -13,7 +13,7 @@ Im working on **ATLASBank** (a banking simulator) and exploring system architect
 ## reach out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=logoColor=white)](https://www.linkedin.com/in/emilymontec/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=logoColor=white)](mailto:emilymonterrosa.c@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3f0000?style=for-the-badge&logo=logoColor=white)](https://emilymontec.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3f0000?style=for-the-badge&logo=logoColor=white)](https://emilymonterrosa.myadso.tech/emilymonterrosa/)
 
 ## my tools
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
