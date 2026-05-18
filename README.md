@@ -5,10 +5,10 @@
 ## 'bout me
 Im a software developer student focused on backend and systemic thinking.<br>
 The languajes that I mainly use are **Python** for **Django** and **JavaScript** for **Node.js** (for **React** too).<br>
-Im also learning **Spring Boot**, and Im enjoying it.<br>
+Im also learning **LLM**, and Im enjoying it.<br>
 
 ## what Im doin' right now
-Im working on **ATLASBank** (a banking simulator) and exploring system architecture & decision making.
+Im working on **NURA** (a AI chat for data analysis) and exploring machine learning & data visualization.
 
 ## reach out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=logoColor=white)](https://www.linkedin.com/in/emilymontec/)
