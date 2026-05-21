@@ -1,33 +1,74 @@
 <div align="center">
 
-# hello there
+# Emily Monterrosa
 
-## 'bout me
-Im a software developer student focused on backend and systemic thinking.<br>
-The languajes that I mainly use are **Python** for **Django** and **JavaScript** for **Node.js** (for **React** too).<br>
-Im also learning **LLM**, and Im enjoying it.<br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=F7DF1E&center=true&vCenter=true&width=650&lines=backend+developer;node.js+%26+python;building+ai-powered+systems;designing+scalable+backend+applications" alt="Typing SVG" />
 
-## what Im doin' right now
-Im working on **NURA** (a AI chat for data analysis) and exploring machine learning & data visualization.
+Building backend applications, APIs, and intelligent systems focused on scalability, architecture, and real-world products.
 
-## reach out
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=logoColor=white)](https://www.linkedin.com/in/emilymontec/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=logoColor=white)](mailto:emilymonterrosa.c@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3f0000?style=for-the-badge&logo=logoColor=white)](https://emilymontec.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilymontec/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emilymonterrosa.c@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://emilymontec.github.io/portfolio/)
 
-## my tools
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
 
+
+## Current Focus
+
+<div align="center">
+
+**NURA** · AI-powered business analytics platform generating intelligent insights from business data.
+<br>
+**GitHub Wrapped** · Developer analytics platform inspired by Spotify Wrapped focused on productivity metrics and AI-driven insights.
+
+*Improving backend scalability, system architecture, and intelligent workflow integration.*
+
+</div>
+
+
+## About Me
+
+Backend Developer focused on scalable web applications using **Python**, **Django**, **Node.js**, and modern backend architectures. I enjoy designing systems, building APIs, and transforming ideas into functional products through structured logic and practical engineering.
+
+**Currently interested in:**
+`AI-powered applications` · `Backend architecture` · `Business intelligence systems` · `LLM integration` · `Data processing`
+
+
+## Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" alt="Backend Stack" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?style=shadow&icons=javascript,react,tailwind,html,css" alt="Frontend Stack" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Databases" /> |
+| **Tools & Devops** | <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,java,spring" alt="Tools" /> |
+
+
+## Featured Projects
+
+### NURA
+> AI-powered business intelligence platform capable of processing datasets, detecting anomalies, and generating strategic insights through LLM integration.
+
+`django` · `postgresql` · `pandas` · `groq` · `analytics`
+
+### GitHub Wrapped
+> Developer analytics platform inspired by Spotify Wrapped focused on productivity metrics, commit activity, language usage, and AI-powered coding analysis.
+
+`node.js` · `github-api` · `analytics` · `ai-integration`
+
+### AtlasBank
+> Full-stack banking simulator featuring financial operations, transaction systems, fraud detection, and financial simulation features.
+
+`spring-boot` · `postgresql` · `financial-systems`
+
+
+## Reach Out
+
+I'm always open to collaborating on:
+* **Backend opportunities** & **Startups**
+* **AI-focused products** & **Intelligent workflows**
+* **Remote international teams**
+
+<div align="center">
+  <sub>Let's build something scalable. Drop me an email!</sub>
 </div>
