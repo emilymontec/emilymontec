@@ -10,20 +10,14 @@ Building backend applications, APIs, and intelligent systems focused on scalabil
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emilymonterrosa.c@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://emilymontec.github.io/portfolio/)
 
-</div>
-
 
 ## Current Focus
 
-<div align="center">
+**NURA**, AI-powered business analytics platform generating intelligent insights from business data.
 
-**NURA** · AI-powered business analytics platform generating intelligent insights from business data.
-<br>
-**GitHub Wrapped** · Developer analytics platform inspired by Spotify Wrapped focused on productivity metrics and AI-driven insights.
+**GitHub Wrapped**, Developer analytics platform inspired by Spotify Wrapped focused on productivity metrics and AI-driven insights.
 
 *Improving backend scalability, system architecture, and intelligent workflow integration.*
-
-</div>
 
 
 ## About Me
@@ -31,6 +25,7 @@ Building backend applications, APIs, and intelligent systems focused on scalabil
 Backend Developer focused on scalable web applications using **Python**, **Django**, **Node.js**, and modern backend architectures. I enjoy designing systems, building APIs, and transforming ideas into functional products through structured logic and practical engineering.
 
 **Currently interested in:**
+
 `AI-powered applications` · `Backend architecture` · `Business intelligence systems` · `LLM integration` · `Data processing`
 
 
@@ -46,18 +41,18 @@ Backend Developer focused on scalable web applications using **Python**, **Djang
 
 ## Featured Projects
 
-### NURA
-> AI-powered business intelligence platform capable of processing datasets, detecting anomalies, and generating strategic insights through LLM integration.
+### NURA:
+ _AI-powered business intelligence platform capable of processing datasets, detecting anomalies, and generating strategic insights through LLM integration._
 
 `django` · `postgresql` · `pandas` · `groq` · `analytics`
 
 ### GitHub Wrapped
-> Developer analytics platform inspired by Spotify Wrapped focused on productivity metrics, commit activity, language usage, and AI-powered coding analysis.
+ _Developer analytics platform inspired by Spotify Wrapped focused on productivity metrics, commit activity, language usage, and AI-powered coding analysis._
 
 `node.js` · `github-api` · `analytics` · `ai-integration`
 
 ### AtlasBank
-> Full-stack banking simulator featuring financial operations, transaction systems, fraud detection, and financial simulation features.
+ _Full-stack banking simulator featuring financial operations, transaction systems, fraud detection, and financial simulation features._
 
 `spring-boot` · `postgresql` · `financial-systems`
 
@@ -65,10 +60,13 @@ Backend Developer focused on scalable web applications using **Python**, **Djang
 ## Reach Out
 
 I'm always open to collaborating on:
-* **Backend opportunities** & **Startups**
-* **AI-focused products** & **Intelligent workflows**
-* **Remote international teams**
 
-<div align="center">
-  <sub>Let's build something scalable. Drop me an email!</sub>
+**Backend opportunities** & **Startups**<br>
+**AI-focused products** & **Intelligent workflows**<br>
+**Remote international teams**
+
+---
+
+<sub>Let's build something scalable. Drop me an email!</sub>
+
 </div>
