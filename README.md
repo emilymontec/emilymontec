@@ -13,7 +13,7 @@ Building backend applications, APIs, and intelligent systems focused on scalabil
 
 ## Current Focus
 
-**NURA**, AI-powered business analytics platform generating intelligent insights from business data.
+**KEISY**, Clinical analytics platform for visualising medical data, identifying critically ill patients and predicting clinical risk.
 
 **GitHub Wrapped**, Developer analytics platform inspired by Spotify Wrapped focused on productivity metrics and AI-driven insights.
 
