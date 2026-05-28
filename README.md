@@ -47,7 +47,7 @@ Backend Developer focused on scalable web applications using **Python**, **Djang
 `django` · `postgresql` · `pandas` · `groq` · `openrouter` · `LLM` · `data-analytics`
 
 ### KEISY:
- _Healthtech analytics platform focused on clinical data processing, ETL automation, and predictive models for medical decision support._
+ _Healthtech analytics platform focused on the processing, analysis, and visualization of clinical data using ETL automation and predictive models for medical decision support_
 
 `django` · `postgresql` · `pandas` · `scikitlearn` · `etl` · `LM` · `healthtech`
 
