@@ -51,11 +51,6 @@ Backend Developer focused on scalable web applications using **Python**, **Djang
 
 `node.js` · `github-api` · `analytics` · `ai-integration`
 
-### AtlasBank
- _Full-stack banking simulator featuring financial operations, transaction systems, fraud detection, and financial simulation features._
-
-`spring-boot` · `postgresql` · `financial-systems`
-
 
 ## Reach Out
 
