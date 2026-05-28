@@ -44,7 +44,12 @@ Backend Developer focused on scalable web applications using **Python**, **Djang
 ### NURA:
  _AI-powered business intelligence platform capable of processing datasets, detecting anomalies, and generating strategic insights through LLM integration._
 
-`django` · `postgresql` · `pandas` · `groq` · `analytics`
+`django` · `postgresql` · `pandas` · `groq` · `openrouter` · `LLM` · `data-analytics`
+
+### KEISY:
+ _Healthtech analytics platform focused on clinical data processing, ETL automation, and predictive models for medical decision support._
+
+`django` · `postgresql` · `pandas` · `scikitlearn` · `etl` · `LM` · `healthtech`
 
 ### GitHub Wrapped
  _Developer analytics platform inspired by Spotify Wrapped focused on productivity metrics, commit activity, language usage, and AI-powered coding analysis._
