@@ -22,20 +22,12 @@ AI-powered Applications · Backend Architecture · Business Intelligence Systems
 
 ## Tech Stack
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,java" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,spring" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel" />
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,javascript,java" /> |
+|---|---|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=django,nodejs,express,spring" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,vercel" /> |
 
 ---
 
@@ -102,7 +94,7 @@ Backend Engineering Opportunities · AI-Powered Products · Startup Projects · 
   </a>
 </p>
 
-<sub>The third icon (GitHub) takes you to my portfolio</sub>
+<sub>The third icon (GitHub) takes you to my portfolio!</sub>
 
 ---
 
