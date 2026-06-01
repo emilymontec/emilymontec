@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1200&color=ac052f&center=true&vCenter=true&width=700&lines=Hey+there!;I'm+Emily...;Welcome+to+my+Github!;" alt="Typing SVG" />
 
+## 
+
 I'm a Backend Developer focused on scalable web applications using **Django**, **Node.js**, and modern backend architectures. Designing systems, building APIs, and transforming ideas into functional products through structured logic and practical engineering.
 
 ---
