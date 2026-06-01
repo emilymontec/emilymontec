@@ -24,10 +24,10 @@ I'm a Backend Developer focused on scalable web applications using **Django**, *
   </a>
   &nbsp;
   <a href="https://emilymontec.github.io/portfolio/">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
+    <img src="https://raw.githubusercontent.com/emilymontec/portfolio/main/assets/icons/logo.png" width="40" />
   </a>
 </p>
-<sub>The third icon (GitHub) takes you to my portfolio!</sub>
+<sub>The third link takes you to my portfolio!</sub>
 
 ---
 
