@@ -14,7 +14,7 @@ I'm a Backend Developer focused on scalable web applications using **Django**, *
 </p>
 
 ---
-## Reach Out!
+## Lets Talk!
 
 <p>
   <a href="https://www.linkedin.com/in/emilymontec/">
