@@ -4,7 +4,8 @@
 
 ## 
 
-I'm a Backend Developer focused on scalable web applications using **Django**, **Node.js**, and modern backend architectures. Designing systems, building APIs, and transforming ideas into functional products through structured logic and practical engineering.
+I'm a Jr. Software Developer specializing in scalable web applications that use **Python** & **JavaScript**, and modern backend architectures. I focus on system design, API development, and turning ideas into functional products through structured logic and practical engineering. <br>
+I'm currently exploring areas such as **automation, AI, large-scale language models (LLMs), machine learning, and cloud computing**.
 
 ---
 
