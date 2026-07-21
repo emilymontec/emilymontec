@@ -2,17 +2,16 @@
 
 ## 
 <!-- Me -->
-<img src="https://i.pinimg.com/736x/4f/91/48/4f9148aba6fc6df648ad4eb82c29a0fe.jpg" width=300 align="left"> <div align="center">
+<img src="https://i.pinimg.com/736x/4f/91/48/4f9148aba6fc6df648ad4eb82c29a0fe.jpg" width=280 align="left"> <div align="center">
 </div>
 
 <div align="justify">
 
-I'm a Jr. Software Developer specializing in scalable web applications that use **Python** & **JavaScript**, and modern backend architectures.
+I'm a Jr. Software Developer specializing in scalable web applications that use **Python** & **JavaScript**, and modern backend architectures. <br>
 I focus on system design, API development, and turning ideas into functional products through structured logic and practical engineering.
 
 I'm currently exploring areas such as **automation, AI, large-scale language models (LLMs), machine learning, and cloud computing**.
 </div>
-<br>
 <br>
 
 <!-- Links -->
