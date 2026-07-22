@@ -31,9 +31,9 @@ I'm currently exploring areas such as **automation, AI, large-scale language mod
     <!-- Skills -->
     <td valign="center" width="33%">
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=python,javascript,java,django,fastapi,nodejs,express" /><br>
-        <img src="https://skillicons.dev/icons?i=spring,html,css,tailwindcss,bootstrap,react,vite" /><br>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,git,github,docker,vercel" />
+        <img src="https://skillicons.dev/icons?i=python,javascript,django,nodejs,express,html" /><br>
+        <img src="https://skillicons.dev/icons?i=css,tailwindcss,vite,postgres,supabase,git" /><br>
+        <img src="https://skillicons.dev/icons?i=fastapi,java,spring,bootstrap,react,mysql,github,docker" />
       </div>
     </td>
     <!-- Stats -->
