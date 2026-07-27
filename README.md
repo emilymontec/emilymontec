@@ -32,14 +32,14 @@ I'm currently exploring areas such as **automation, AI, large-scale language mod
 </table>
 
 
-<!-- Professional -->
+<!-- Projects -->
 <table>
 <tr>
 <!-- Portfolio & CV -->
 <td width="100" valign="middle" align="center">
 <a href="https://emilymontec.github.io/portfolio/" target="_blank">
 <img width="90px" src="https://img.shields.io/badge/.portfolio-92404b?style=for-the-badge&logoColor=white" />
-<!-- Currículum -->
+<!-- CV -->
 <a href="https://emilymontec.github.io/portfolio/docs/EmilyMonterrosaCastro_en-us.pdf" target="_blank">
 <img width="40px" src="https://img.shields.io/badge/.cv-92404b?style=for-the-badge&logoColor=white" />
 </a>
@@ -95,5 +95,5 @@ Also, **it includes a strategy simulator that allows users to anticipate the pot
 
 <!-- Activity Graph -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=emilymontec&custom_title=Daily+Commits&hide_border=false&theme=high-contrast&border_color=92404b&bg_color=transparent&radius=16&area_color=92404b&area=true&point=9b9b9b&line=92404b&days=10&text_color=9b9b9b&title_color=9b9b9b&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emilymontec&custom_title=Daily+Commits&hide_border=false&theme=high-contrast&border_color=687484&bg_color=transparent&area_color=92404b&area=true&point=9b9b9b&line=92404b&days=30&text_color=9b9b9b&title_color=9b9b9b&include_all_commits=true&count_private=true" />
 </div>
