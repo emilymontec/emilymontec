@@ -32,13 +32,16 @@ I'm currently exploring areas such as **automation, AI, large-scale language mod
 </table>
 
 
-<!-- Projects -->
+<!-- Professional -->
 <table>
 <tr>
-<!-- Portfolio -->
+<!-- Portfolio & CV -->
 <td width="100" valign="middle" align="center">
 <a href="https://emilymontec.github.io/portfolio/" target="_blank">
 <img width="90px" src="https://img.shields.io/badge/.portfolio-92404b?style=for-the-badge&logoColor=white" />
+<!-- Currículum -->
+<a href="https://emilymontec.github.io/portfolio/docs/EmilyMonterrosaCastro_en-us.pdf" target="_blank">
+<img width="40px" src="https://img.shields.io/badge/.cv-92404b?style=for-the-badge&logoColor=white" />
 </a>
 </a>
 </td>
@@ -88,6 +91,7 @@ Also, **it includes a strategy simulator that allows users to anticipate the pot
 </td>
 </tr>
 </table>
+
 
 <!-- Activity Graph -->
 <div align="center">
