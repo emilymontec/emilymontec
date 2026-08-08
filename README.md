@@ -25,7 +25,7 @@ I'm currently exploring areas such as **automation, AI, large-scale language mod
 <a href="https://www.linkedin.com/in/emilymontec/" target="_blank">
 <img width="80" src="https://img.shields.io/badge/.linkin-92404b?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://mail.google.com/mail/?view=cm&to=emilymonterrosa.c@gmail.com" target="_blank"> <img width="80" src="https://img.shields.io/badge/.gmail-92404b?style=for-the-badge&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&to=emilymonterrosa.c@gmail.com" target="_blank"> <img width="80" src="https://img.shields.io/badge/.email-92404b?style=for-the-badge&logoColor=white" />
 </a>
 </td>
 </tr>
@@ -69,17 +69,17 @@ Also, **it includes a strategy simulator that allows users to anticipate the pot
 <!-- Skills -->
 <td valign="center" width="33%">
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,django,nodejs,express" /><br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,vite,bootstrap" /><br>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,git,github" /><br>
-<img src="https://skillicons.dev/icons?i=fastapi,java,spring,react,docker" />
+<img src="https://skillicons.dev/icons?i=python,javascript,django,nodejs,express,nextjs" /><br>
+<img src="https://skillicons.dev/icons?i=typescript,html,css,tailwindcss,vite,bootstrap" /><br>
+<img src="https://skillicons.dev/icons?i=prisma,postgres,supabase,mysql,git,github" /><br>
+<img src="https://skillicons.dev/icons?i=fastapi,java,spring,react,kotlin,docker" />
 </div>
 </td>
 <!-- Repos -->
 <td valign="center" width="33%">
 <div align="center">
 <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=emilymontec&repo=nura-intelligence&theme=dark&bg_color=fff&title_color=92404b&text_color=92404b&hide_border=true&description_lines_count=7&icon_color=92404b&cache_seconds=86400" />
-<img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=emilymontec&repo=github-wrapped&theme=dark&bg_color=fff&title_color=92404b&text_color=92404b&hide_border=true&description_lines_count=7&icon_color=92404b&cache_seconds=86400" />
+<img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=emilymontec&repo=creaciones-emaleli&theme=dark&bg_color=fff&title_color=92404b&text_color=92404b&hide_border=true&description_lines_count=7&icon_color=92404b&cache_seconds=86400" />
 </td>
 <!-- Stats -->
 <td valign="center" width="33%">
