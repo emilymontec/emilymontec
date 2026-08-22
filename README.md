@@ -72,7 +72,7 @@ Also, **it includes a strategy simulator that allows users to anticipate the pot
 <img src="https://skillicons.dev/icons?i=python,javascript,django,nodejs,express,nextjs" /><br>
 <img src="https://skillicons.dev/icons?i=typescript,html,css,tailwindcss,vite,bootstrap" /><br>
 <img src="https://skillicons.dev/icons?i=prisma,postgres,supabase,mysql,git,github" /><br>
-<img src="https://skillicons.dev/icons?i=fastapi,java,spring,react,kotlin,docker" />
+<img src="https://skillicons.dev/icons?i=fastapi,java,spring,react,php,docker" />
 </div>
 </td>
 <!-- Repos -->
