@@ -93,7 +93,8 @@ Also, **it includes a strategy simulator that allows users to anticipate the pot
 </table>
 
 
-<!-- Activity Graph -->
+<!-- Activity Graph
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=emilymontec&custom_title=Daily+Commits&hide_border=false&theme=high-contrast&border_color=687484&bg_color=transparent&area_color=92404b&area=true&point=9b9b9b&line=92404b&days=30&text_color=9b9b9b&title_color=9b9b9b&include_all_commits=true&count_private=true" />
 </div>
+-->
