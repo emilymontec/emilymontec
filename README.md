@@ -12,11 +12,11 @@
 <td valign="center">
 <div align="justify">
 
-I'm a Jr. Software Developer specializing in scalable web applications that use **Python** & JavaScript ('n TypeScript rn)**, and modern backend architectures.
+I'm a Jr. Software Developer focused on scalable web applications using **JavaScript, TypeScript, and Python**, with a special emphasis on modern backend architectures, system design, and API development.
 
-I focus on system design, API development, and turning ideas into functional products through structured logic and practical engineering.
+Currently exploring TypeScript and full-stack development, building well-structured, production-ready applications. Turning ideas into functional products through practical engineering and clean code patterns.
 
-I'm currently exploring areas such as **automation, AI, large-scale language models (LLMs), machine learning, and cloud computing**.
+And learning about cloud computing, DevOps practices, and infrastructure automation to strengthen my ability to deploy and scale systems effectively.
 
 </div>
 </td>
