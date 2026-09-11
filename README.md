@@ -12,7 +12,7 @@
 <td valign="center">
 <div align="justify">
 
-I'm a Jr. Software Developer specializing in scalable web applications that use **Python** & **JavaScript**, and modern backend architectures.
+I'm a Jr. Software Developer specializing in scalable web applications that use **Python** & JavaScript ('n TypeScript rn)**, and modern backend architectures.
 
 I focus on system design, API development, and turning ideas into functional products through structured logic and practical engineering.
 
@@ -49,9 +49,9 @@ I'm currently exploring areas such as **automation, AI, large-scale language mod
 <td valign="center">
 <div align="justify">
 
-Currently, I'm building an **AI platform** that acts as a business analyst through natural language conversations, interpreting business data to generate insights, identify opportunities and risks, issue alerts, and offer strategic recommendations tailored to the business context.
+I’m currently developing WithNothin, a social network for the tech community where creators, students, and experts share their actual process **—what they’re creating, what they’re learning, where they get stuck, and what questions they have—** rather than just showing off the polished end result.
 
-Also, **it includes a strategy simulator that allows users to anticipate the potential outcomes of different decisions before implementing them**, thereby reducing uncertainty and supporting business planning.
+It features a personalized feed based on your social network, project spaces and communities for collaboration, Q&A section with accepted answers and upvotes, moderation tools including blocking and reporting, and rule-based recommendations to meet new people and discover technologies.
 
 </div>
 </td>
@@ -70,16 +70,16 @@ Also, **it includes a strategy simulator that allows users to anticipate the pot
 <td valign="center" width="33%">
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,django,nodejs,express,nextjs" /><br>
-<img src="https://skillicons.dev/icons?i=typescript,html,css,tailwindcss,vite,bootstrap" /><br>
-<img src="https://skillicons.dev/icons?i=prisma,postgres,supabase,mysql,git,github" /><br>
-<img src="https://skillicons.dev/icons?i=fastapi,java,spring,react,php,docker" />
+<img src="https://skillicons.dev/icons?i=nestjs,typescript,html,css,tailwindcss,vite" /><br>
+<img src="https://skillicons.dev/icons?i=bootstrap,prisma,postgres,supabase,mysql,git" /><br>
+<img src="https://skillicons.dev/icons?i=github,java,spring,react,php,docker" />
 </div>
 </td>
 <!-- Repos -->
 <td valign="center" width="33%">
 <div align="center">
-<img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=emilymontec&repo=creaciones-emaleli&theme=dark&bg_color=fff&title_color=92404b&text_color=92404b&hide_border=true&description_lines_count=7&icon_color=92404b&cache_seconds=86400" />
-<img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=emilymontec&repo=misi-framework&theme=dark&bg_color=fff&title_color=92404b&text_color=92404b&hide_border=true&description_lines_count=7&icon_color=92404b&cache_seconds=86400" />
+<img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=emilymontec&repo=github-wrapped&theme=dark&bg_color=fff&title_color=92404b&text_color=92404b&hide_border=true&description_lines_count=7&icon_color=92404b&cache_seconds=86400" />
+<img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=emilymontec&repo=withnothin&theme=dark&bg_color=fff&title_color=92404b&text_color=92404b&hide_border=true&description_lines_count=7&icon_color=92404b&cache_seconds=86400" />
 </td>
 <!-- Stats -->
 <td valign="center" width="33%">
