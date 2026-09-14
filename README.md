@@ -78,7 +78,7 @@ It features a personalized feed based on your social network, project spaces and
 <!-- Repos -->
 <td valign="center" width="33%">
 <div align="center">
-<img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=emilymontec&repo=github-wrapped&theme=dark&bg_color=fff&title_color=92404b&text_color=92404b&hide_border=true&description_lines_count=7&icon_color=92404b&cache_seconds=86400" />
+<img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=emilymontec&repo=my-github-wrapped&theme=dark&bg_color=fff&title_color=92404b&text_color=92404b&hide_border=true&description_lines_count=7&icon_color=92404b&cache_seconds=86400" />
 <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=emilymontec&repo=withnothin&theme=dark&bg_color=fff&title_color=92404b&text_color=92404b&hide_border=true&description_lines_count=7&icon_color=92404b&cache_seconds=86400" />
 </td>
 <!-- Stats -->
